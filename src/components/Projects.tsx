@@ -15,7 +15,7 @@ const Projects = () => {
         "Enhanced intelligence report quality",
         "Robust error handling and data validation"
       ],
-      github: "https://github.com/usman-ali/orion-intelligence",
+      github: "https://github.com/Orion-Intelligence/Orion-Collector",
       type: "Professional Project",
       status: "Active"
     },

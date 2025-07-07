@@ -126,7 +126,7 @@ const Contact = () => {
                 <h4 className="text-lg font-semibold text-white mb-4">Social Media</h4>
                 <div className="flex space-x-4">
                   <a
-                    href="https://linkedin.com/in/usman-ali"
+                    href="https://linkedin.com/in/usmancout"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-gray-900/50 p-3 rounded-lg hover:bg-green-400 transition-all duration-300 transform hover:scale-110 group border border-green-400/20"
@@ -134,7 +134,7 @@ const Contact = () => {
                     <Linkedin className="w-6 h-6 text-white group-hover:text-black" />
                   </a>
                   <a
-                    href="https://github.com/usman-ali"
+                    href="https://github.com/usmancout"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-gray-900/50 p-3 rounded-lg hover:bg-green-400 transition-all duration-300 transform hover:scale-110 group border border-green-400/20"

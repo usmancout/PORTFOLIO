@@ -72,7 +72,7 @@ const Hero = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-12">
             <a
-              href="https://linkedin.com/in/usman-ali"
+              href="https://linkedin.com/in/usmancout"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative p-3 bg-gray-800 rounded-full hover:bg-green-400 transition-all duration-300 transform hover:scale-110"
@@ -80,7 +80,7 @@ const Hero = () => {
               <Linkedin className="w-6 h-6 text-white group-hover:text-black" />
             </a>
             <a
-              href="https://github.com/usman-ali"
+              href="https://github.com/usmancout"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative p-3 bg-gray-800 rounded-full hover:bg-green-400 transition-all duration-300 transform hover:scale-110"
