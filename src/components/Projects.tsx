@@ -31,7 +31,7 @@ const Projects = () => {
         "Comprehensive data validation",
         "Export functionality for multiple formats"
       ],
-      github: "https://github.com/usman-ali/osint-data-extractor",
+      github: "https://github.com/usmancout/WebScraper-Flask-Anglar-",
       type: "Personal Project",
       status: "Completed"
     },
@@ -47,7 +47,7 @@ const Projects = () => {
         "PDF and HTML output formats",
         "Custom branding and styling options"
       ],
-      github: "https://github.com/usman-ali/intel-report-generator",
+      github: "https://github.com/usmancout/Intelligence-Report-Generator",
       type: "Personal Project",
       status: "In Development"
     }
